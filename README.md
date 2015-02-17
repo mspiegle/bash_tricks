@@ -1,5 +1,6 @@
-# subnet_membership
+# bash tricks!
 
+subnet membership
 ```
 $ ./in_cidr.sh 10.0.0.100 10.0.0.0/24
    167772260 ip as decimal
